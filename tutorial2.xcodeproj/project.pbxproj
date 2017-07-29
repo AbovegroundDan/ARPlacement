@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		093B95EA1F2CF7EA004A335F /* testscene.scn in Resources */ = {isa = PBXBuildFile; fileRef = 093B95E91F2CF7EA004A335F /* testscene.scn */; };
 		098F5CDE1F2BC5DF004B12F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F5CDD1F2BC5DF004B12F7 /* AppDelegate.swift */; };
 		098F5CE01F2BC5DF004B12F7 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 098F5CDF1F2BC5DF004B12F7 /* art.scnassets */; };
 		098F5CE21F2BC5DF004B12F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098F5CE11F2BC5DF004B12F7 /* ViewController.swift */; };
@@ -20,7 +19,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		093B95E91F2CF7EA004A335F /* testscene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = testscene.scn; path = art.scnassets/testscene.scn; sourceTree = "<group>"; };
 		098F5CDA1F2BC5DF004B12F7 /* tutorial2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tutorial2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		098F5CDD1F2BC5DF004B12F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		098F5CDF1F2BC5DF004B12F7 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -67,7 +65,6 @@
 				098F5CDD1F2BC5DF004B12F7 /* AppDelegate.swift */,
 				098F5CF11F2BC61B004B12F7 /* MainScene.swift */,
 				098F5CE11F2BC5DF004B12F7 /* ViewController.swift */,
-				093B95E91F2CF7EA004A335F /* testscene.scn */,
 				098F5CF21F2BC62D004B12F7 /* Utilities */,
 				098F5CDF1F2BC5DF004B12F7 /* art.scnassets */,
 				098F5CE31F2BC5DF004B12F7 /* Main.storyboard */,
@@ -146,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				098F5CE01F2BC5DF004B12F7 /* art.scnassets in Resources */,
-				093B95EA1F2CF7EA004A335F /* testscene.scn in Resources */,
 				098F5CEA1F2BC5DF004B12F7 /* LaunchScreen.storyboard in Resources */,
 				098F5CE71F2BC5DF004B12F7 /* Assets.xcassets in Resources */,
 				098F5CE51F2BC5DF004B12F7 /* Main.storyboard in Resources */,
