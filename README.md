@@ -1,8 +1,8 @@
 # ARTutorial2
 
-A simple first tutorial for getting an ARKit scene up and running with SceneKit. 
+The second in this series of ARKit tutorials. 
 
-Shows scene initialization, with some placeholders for the future, how to create an object and add it to the scene when you tap. It adds the object at a plane in front of the camera translated by your touch point.
+In this project, we add in surface detection, and then place objects onto them when tapping.
 
 In this example, I make use of some utility functions that Apple provides in their object placement demo.
 
